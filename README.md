@@ -1,5 +1,5 @@
 # imdb-data-fetcher
-Simple data fetcher for retrieving data from IMDB website.
+Simple PHP data fetcher for retrieving data from IMDB website.
 
 # todo
 - error handling
